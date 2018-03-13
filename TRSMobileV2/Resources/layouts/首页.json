@@ -1,0 +1,346 @@
+{
+	"code" : 0,
+	"message" : "获取首页数据成功",
+	"response" : {
+
+		"topic_datas" : [
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 0,
+				"title" : "施秉县杉木河吸引近万游客",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201608/W020160801438965378951.jpg"
+				],
+				"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201608/t20160801_427435.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-08-01 12:04:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 3,
+				"title" : "龙里牧民变“马师”搭上旅游致富车",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160728430052834103.jpg"
+				],
+				"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160728_426694.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-07-28 11:55:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 0,
+				"title" : "盘县老厂镇竹海景区",
+				"content" : "英国成功脱离欧盟 经济或将面临滑铁卢",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160722423921344886.jpg"
+				],
+				"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160722_425081.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-07-22 11:44:00"
+			}
+		],
+
+		"datas" : [
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 5,
+				"title" : "贵州代表团赴瑞士开展经贸旅游交流活动",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [],
+				"url" : "http://www.gzgov.gov.cn/xwzx/rmyd/201607/t20160722_424893.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-07-22 10:13:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 0,
+				"title" : "盘县淤泥乡举办彝族火把节",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160729416603884788.jpg"
+				],
+				"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160729_426973.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-07-29 11:33:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 0,
+				"title" : "兴义市万峰林巨大“福”字图案",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160706402123340976.jpg"					
+				],
+				"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160706_420550.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-07-06 11:07:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 1,
+				"title" : "捧起“旅游碗” 甩掉“贫困帽”",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160726423374234271.jpg",
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160726423374230672.jpg",
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201606/W020160622401809232464.jpg"
+				],
+				"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160726_425826.html",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-07-26 11:45:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 2,
+				"title" : "山地公园省　多彩贵州风",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/xwzx/tpxw/201605/W020160510394954637125.jpg"					
+				],
+				"url" : "http://www.gzgov.gov.cn/ztzl/2016qglytghdqh/",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-05-10 10:56:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 6,
+				"title" : "绿色发展 知行合一",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/ztzl/images/20160706222.png"					
+				],
+				"url" : "http://www.gzgov.gov.cn/ztzl/lsfzzxhy/",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-05-10 10:56:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docId" : 242123,
+				"docType" : 6,
+				"title" : "数据创新 驱动未来",
+				"content" : "",
+				"source" : "贵州日报",
+				"images" : [
+					"http://www.gzgov.gov.cn/ztzl/images/shbtou.jpg"					
+				],
+				"url" : "http://www.gzgov.gov.cn/ztzl/2016szfsbh/",
+				"media" : "",
+				"RelPhotos" : "",
+				"date" : "2016-05-10 10:56:00"
+			},
+			{
+				"channelId" : 1231312,
+				"docType" :10,
+				"channelUrl" : "",
+				"channelItems" : [
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 0,
+						"title" : "草海湖畔",
+						"content" : "",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160712408263281310.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160712_422270.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-07-12 11:19:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 0,
+						"title" : "数千市民歌唱伟大的祖国",
+						"content" : "",
+						"source" : "新华社",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160701394298081989.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201607/t20160701_419508.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-07-01 10:56:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 0,
+						"title" : "贵阳市南明区举办庆“七一”书法绘画作品展",
+						"content" : "",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201606/W020160630431081537906.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201606/t20160630_419293.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-06-30 11:57:00"
+					}
+				]
+			},
+			{
+				"channelId" : 1231312,
+				"docType" : 11,
+				"channelUrl" : "",
+				"channelItems" : [
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 8,
+						"name" : "孙志刚",
+						"content" : "孙志刚同志,男,汉族,1954年5月出生,河南荥阳人,1971年2月参加工作,1976年9月加入中国共产党,研究生学历,经济学博士。",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/zyzx/ldr_778/201506/P020160131837504528848.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/zyzx/ldr_778/",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-07-01 10:56:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 4,
+						"title" : "陈敏尔书记、孙志刚省长会见南航集团总经理王昌顺",
+						"content" : "",
+						"source" : "多彩贵州网",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/ldhd/201608/W020160804343740718634.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/ldhd/201608/t20160804_428212.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-08-04 09:36:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 4,
+						"title" : "孙志刚省长主持召开省政府常务会议",
+						"content" : "",
+						"source" : "贵州日报",
+						"images" : [],
+						"url" : "http://www.gzgov.gov.cn/xwzx/ldhd/201608/t20160804_428453.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-08-04 09:30:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 8,
+						"name" : "秦如培",
+						"content" : "秦如培同志，男，汉族，1962年10月出生，贵州江口人，1983年8月参加工作，1985年7月加入中国共产党，大学学历，项目管理硕士。",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/zyzx/ldr_778/201506/P020150626565400971456.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/zyzx/ldr_778/201506/t20150619_179383.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-07-01 10:56:00"
+					},
+				]
+			},
+			{
+				"channelId" : 1231312,
+				"docType" : 12,
+				"channelUrl" : "",
+				"channelItems" : [
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 7,
+						"title" : "2016首届多彩贵州文化艺术节非遗展示篇台江周末聚",
+						"content" : "",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201607/W020160711405698297145.jpg"					
+						],
+						"url" : "http://www.gznw.gov.cn/content/2016-08-02/basicinfo/289186.html",
+						"media" : "http://www.gzxncw.gov.cn/UploadFile/news/20160802.mp4",
+						"RelPhotos" : "",
+						"date" : "2016-07-11 11:15:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 0,
+						"title" : "沪昆高铁贵州东段“一岁”了",
+						"content" : "",
+						"source" : "新华社",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201606/W020160624426215258147.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201606/t20160624_417847.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-06-24 11:49:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 7,
+						"title" : "数博会让市民尽享科技盛宴",
+						"content" : "",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201605/W020160531393622080924.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201605/t20160531_403073.html",
+						"media" : "http://www.gzxncw.gov.cn/UploadFile/news/20160708.mp4",
+						"RelPhotos" : "",
+						"date" : "2016-05-31 10:54:00"
+					},
+					{
+						"channelId" : 1231312,
+						"docId" : 242123,
+						"docType" : 0,
+						"title" : "遵义50对新人着汉服完婚",
+						"content" : "",
+						"source" : "贵州日报",
+						"images" : [
+							"http://www.gzgov.gov.cn/xwzx/tpxw/201605/W020160524375641812812.jpg"					
+						],
+						"url" : "http://www.gzgov.gov.cn/xwzx/tpxw/201605/t20160524_401225.html",
+						"media" : "",
+						"RelPhotos" : "",
+						"date" : "2016-05-24 10:24:00"
+					}
+				]
+			}			
+		]
+	}
+}

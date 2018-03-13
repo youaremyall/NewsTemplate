@@ -1,0 +1,32 @@
+[
+	{
+		"class" : "UINewsViewController",
+		"title" : "新闻",
+		"icon"  : "tabbar_1.png",
+		"url" : "file://新闻栏目.json"
+	},
+	{
+		"class" : "UIBaseViewController",
+		"title" : "服务",
+		"icon"  : "tabbar_2.png",
+		"url" : "http://www.tibetapp.cn/kanjian/index.json"
+	},
+	{
+		"class" : "UIPersonalCenterViewController",
+		"title" : "我的",
+		"icon"  : "tabbar_3.png",
+		"url" : ""
+	},
+	{
+		"class" : "UIBaseViewController",
+		"title" : "黄页",
+		"icon"  : "tabbar_4.png",
+		"url" : ""
+	},
+	{
+		"class" : "UIBaseViewController",
+		"title" : "购物",
+		"icon"  : "tabbar_5.png",
+		"url" : ""
+	}
+]

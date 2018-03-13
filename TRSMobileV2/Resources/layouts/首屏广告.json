@@ -1,0 +1,10 @@
+{
+	"code" : 0,
+	"message" : "获取首屏广告成功",
+
+	"response" : {
+		"expiredDate" : 1546228800,
+		"media" : "keep.mp4",
+		"url" : "http://www.baidu.com"
+	}	
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="FNp-FH-vLx" customClass="UINavbarPicker">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="36"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="QqA-u6-3Zv">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="36"/>
+                </imageView>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rgd-82-ACj">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="36"/>
+                    <connections>
+                        <outlet property="delegate" destination="FNp-FH-vLx" id="OHc-Oq-WDJ"/>
+                    </connections>
+                </scrollView>
+                <button hidden="YES" opaque="NO" tag="-1" contentMode="scaleToFill" selected="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="c2O-6D-JS6">
+                    <rect key="frame" x="284" y="0.0" width="36" height="36"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="c2O-6D-JS6" secondAttribute="height" multiplier="1:1" id="KEu-jv-lOg"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <state key="normal">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="didButtonSubscribleSelect:" destination="FNp-FH-vLx" eventType="touchUpInside" id="mip-i2-Cfy"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Rgd-82-ACj" secondAttribute="trailing" id="3qW-52-Ada"/>
+                <constraint firstItem="QqA-u6-3Zv" firstAttribute="leading" secondItem="FNp-FH-vLx" secondAttribute="leading" id="JBK-HS-deo"/>
+                <constraint firstAttribute="bottom" secondItem="c2O-6D-JS6" secondAttribute="bottom" id="Mcs-FC-tq0"/>
+                <constraint firstItem="Rgd-82-ACj" firstAttribute="leading" secondItem="FNp-FH-vLx" secondAttribute="leading" id="Obb-5b-XMf"/>
+                <constraint firstAttribute="bottom" secondItem="Rgd-82-ACj" secondAttribute="bottom" id="bBV-X9-xbd"/>
+                <constraint firstAttribute="trailing" secondItem="c2O-6D-JS6" secondAttribute="trailing" id="d48-Yx-kBG"/>
+                <constraint firstAttribute="bottom" secondItem="QqA-u6-3Zv" secondAttribute="bottom" id="dIe-HX-srH"/>
+                <constraint firstItem="Rgd-82-ACj" firstAttribute="top" secondItem="FNp-FH-vLx" secondAttribute="top" id="etm-tS-bma"/>
+                <constraint firstAttribute="trailing" secondItem="Rgd-82-ACj" secondAttribute="trailing" id="jPP-BW-twg"/>
+                <constraint firstItem="c2O-6D-JS6" firstAttribute="top" secondItem="FNp-FH-vLx" secondAttribute="top" id="k9O-Eg-p36"/>
+                <constraint firstAttribute="trailing" secondItem="QqA-u6-3Zv" secondAttribute="trailing" id="pK1-oa-lCj"/>
+                <constraint firstItem="QqA-u6-3Zv" firstAttribute="top" secondItem="FNp-FH-vLx" secondAttribute="top" id="wsW-9c-fTM"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="3qW-52-Ada"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="buttonSubscrible" destination="c2O-6D-JS6" id="zv8-JD-Dxi"/>
+                <outlet property="imgViewBg" destination="QqA-u6-3Zv" id="tOq-LE-1YK"/>
+                <outlet property="scrollView" destination="Rgd-82-ACj" id="AsK-Fe-P2R"/>
+            </connections>
+            <point key="canvasLocation" x="903" y="268"/>
+        </view>
+    </objects>
+</document>

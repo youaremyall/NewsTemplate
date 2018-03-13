@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>-1009</key>
+	<string>网络不给力，请检查网络设置</string>
+	<key>1</key>
+	<string>服务器内部错误或者参数错误</string>
+	<key>100</key>
+	<string>网络故障</string>
+	<key>101</key>
+	<string>查询的 Class 不存在，或者要关联的 Pointer 对象不存在</string>
+	<key>102</key>
+	<string>查询的数据类型不匹配</string>
+	<key>103</key>
+	<string>非法的 Class 名称</string>
+	<key>104</key>
+	<string>缺少 objectId或者 objectId 非法</string>
+	<key>105</key>
+	<string>无效的 key 名称</string>
+	<key>106</key>
+	<string>无效的 Pointer 格式</string>
+	<key>107</key>
+	<string>解析 JSON 数据失败</string>
+	<key>108</key>
+	<string>此 API 仅供内部使用</string>
+	<key>111</key>
+	<string>存储类型不匹配</string>
+	<key>112</key>
+	<string>推送订阅频道无效</string>
+	<key>113</key>
+	<string>类的某个字段设定成必须，保存的对象缺少该字段</string>
+	<key>114</key>
+	<string>推送存储的设备串号无效</string>
+	<key>115</key>
+	<string>推送配置错误</string>
+	<key>116</key>
+	<string>存储的对象超过了大小限制</string>
+	<key>117</key>
+	<string>更新的字段是只读，无法更新</string>
+	<key>119</key>
+	<string>该操作无法从客户端发起</string>
+	<key>120</key>
+	<string> 查询结果无法从缓存中找到</string>
+	<key>121</key>
+	<string>JSON 对象中 key 的名称不能包含 $ 和 . 符号</string>
+	<key>122</key>
+	<string>无效的文件名称</string>
+	<key>123</key>
+	<string> ACL 格式错误</string>
+	<key>124</key>
+	<string>请求超时</string>
+	<key>125</key>
+	<string>电子邮箱地址无效</string>
+	<key>126</key>
+	<string>用户不存在</string>
+	<key>127</key>
+	<string>手机号码无效</string>
+	<key>137</key>
+	<string>违反 class 中的唯一性索引约束（unique），尝试存储重复的值</string>
+	<key>139</key>
+	<string>用户名称非法</string>
+	<key>140</key>
+	<string>超过应用的容量限额，请升级账户等级</string>
+	<key>141</key>
+	<string>云引擎脚本编译或者运行报错</string>
+	<key>142</key>
+	<string>云引擎校验错误</string>
+	<key>145</key>
+	<string>本设备没有启用支付功能</string>
+	<key>150</key>
+	<string>转换数据到图片失败</string>
+	<key>153</key>
+	<string>删除文件失败</string>
+	<key>160</key>
+	<string>账户余额不足</string>
+	<key>200</key>
+	<string>没有提供用户名，或者用户名为空</string>
+	<key>201</key>
+	<string>没有提供密码，或者密码为空</string>
+	<key>202</key>
+	<string>用户名已经被占用</string>
+	<key>203</key>
+	<string>电子邮箱地址已经被占用</string>
+	<key>204</key>
+	<string>没有提供电子邮箱地址</string>
+	<key>205</key>
+	<string>找不到电子邮箱地址对应的用户</string>
+	<key>206</key>
+	<string>没有提供 session，无法修改用户信息</string>
+	<key>207</key>
+	<string>只能通过注册创建用户，不允许第三方登录</string>
+	<key>208</key>
+	<string>第三方帐号已经绑定到一个用户，不可绑定到其他用户</string>
+	<key>210</key>
+	<string>用户名和密码不匹配</string>
+	<key>211</key>
+	<string>找不到该用户</string>
+	<key>212</key>
+	<string>请提供手机号码</string>
+	<key>213</key>
+	<string>手机号码对应的用户不存在</string>
+	<key>214</key>
+	<string>手机号码已经被注册</string>
+	<key>215</key>
+	<string>未验证的手机号码</string>
+	<key>217</key>
+	<string>无效的用户名</string>
+	<key>218</key>
+	<string>无效的密码</string>
+	<key>250</key>
+	<string>连接的第三方账户没有返回用户唯一标示 id</string>
+	<key>251</key>
+	<string>无效的账户连接</string>
+	<key>252</key>
+	<string>无效的微信授权信息</string>
+	<key>300</key>
+	<string> CQL 语法错误</string>
+	<key>301</key>
+	<string>新增对象失败，通常是数据格式问题</string>
+	<key>302</key>
+	<string>无效的 GeoPoint 类型</string>
+	<key>303</key>
+	<string>插入数据库失败，一般是数据格式或者内部错误</string>
+	<key>304</key>
+	<string>数据操作错误，一般是语法错误或者内部异常</string>
+	<key>305</key>
+	<string>根据 where 条件更新或者删除对象不起作用，通常是因为条件不满足</string>
+	<key>401</key>
+	<string>未经授权的访问</string>
+	<key>403</key>
+	<string>操作被禁止</string>
+	<key>502</key>
+	<string>服务器维护中</string>
+	<key>503</key>
+	<string>超过流量访问限制</string>
+	<key>511</key>
+	<string>该请求 API 暂时不可用，请稍后重试</string>
+	<key>600</key>
+	<string>无效的短信签名</string>
+	<key>601</key>
+	<string>发送短信过于频繁</string>
+	<key>602</key>
+	<string>发送短信或者语音验证码失败</string>
+	<key>603</key>
+	<string>无效的短信验证码</string>
+	<key>604</key>
+	<string>找不到自定义的短信模板</string>
+	<key>605</key>
+	<string>短信模板未审核</string>
+	<key>606</key>
+	<string>渲染短信模板失败，通常是模板语法问题</string>
+	<key>700</key>
+	<string>无效的查询或者排序字段，请确认查询或者排序的字段在表中存在</string>
+</dict>
+</plist>

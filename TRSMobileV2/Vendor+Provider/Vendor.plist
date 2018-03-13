@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVOSCloudAppId</key>
+	<string>EyUYrFkE9Mp7o09PVb88DjFr-gzGzoHsz</string>
+	<key>AVOSCloudAppKey</key>
+	<string>ryYL5X3zLjpDLgxK4SbA4WM5</string>
+	<key>BuglyAppId</key>
+	<string>4e24b52d26</string>
+	<key>UMengAppKey</key>
+	<string>56e0e62267e58ef7200000a7</string>
+	<key>PgyerAppId</key>
+	<string>e6de72ae34c90a9d5f76ef1b4184af64</string>
+	<key>SinaWeiboAppKey</key>
+	<string>568898243</string>
+	<key>SinaWeiboAppSecret</key>
+	<string>38a4f8204cc784f81f9f0daaf31e02e3</string>
+	<key>SinaWeiboRedirectUri</key>
+	<string>http://www.sharesdk.cn</string>
+	<key>QQAppId</key>
+	<string>100371282</string>
+	<key>QQAppKey</key>
+	<string>aed9b0303e3ed1e27bae87c33761161d</string>
+	<key>WeChatAppId</key>
+	<string>wx4868b35061f87885</string>
+	<key>WeChatAppSecret</key>
+	<string>64020361b8ec4c99936c0e3999a9f249</string>
+	<key>JPushAppKey</key>
+	<string>f71050e8cfe1c7cf7f7fe5d1</string>
+	<key>JPushChannel</key>
+	<string>App Store</string>
+	<key>JPushAPSIsProduction</key>
+	<true/>
+	<key>TRSTAAppId</key>
+	<string>4</string>
+	<key>TRSTAAppKey</key>
+	<string>isha5h7g1k38yd5z1ljc7</string>
+</dict>
+</plist>

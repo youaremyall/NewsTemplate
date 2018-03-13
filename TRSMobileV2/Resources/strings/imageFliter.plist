@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>logo</string>
+	<string>appad</string>
+	<string>mdownload</string>
+	<string>mclose</string>
+	<string>detailApp</string>
+	<string>downloadApp</string>
+	<string>hotTen</string>
+	<string>recommend</string>
+	<string>qq</string>
+	<string>club</string>
+	<string>footer</string>
+	<string>pic</string>
+</array>
+</plist>
